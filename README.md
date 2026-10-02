@@ -1,177 +1,152 @@
+<!-- Palette: #000000 base · #F6EFD2 cream · #E2DDB4 sand · #E43636 red -->
+
 <div align="center">
 
-<img width="1024" src="https://github.com/user-attachments/assets/db79d1fe-7dda-4752-910a-e3d079806350" alt="Aryan Gupta — Frontend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:E43636&height=220&section=header&text=Aryan%20Gupta&fontColor=F6EFD2&fontSize=64&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Aryan Gupta — Full Stack Developer" />
 
-<!-- Alternative animated header (Capsule Render) — swap in if you drop the banner above
-![header](https://capsule-render.vercel.app/api?type=waving&color=0f4a3e&height=260&section=header&text=ARYAN%20GUPTA&fontColor=d6f5ea&fontSize=62&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%C2%B7%20TypeScript&descAlignY=58&descAlign=50&descColor=6fa98a)
--->
+<a href="https://aryangupta.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1400&color=E43636&center=true&vCenter=true&width=640&lines=React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS;GraphQL+%C2%B7+REST+APIs+%C2%B7+PostgreSQL;Front+End+Developer+%40+Tricity+Services;Building+HisaabBook+%E2%80%94+a+full-stack+CRM" alt="Typing intro" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=2DD4A7&center=true&vCenter=true&width=640&lines=React.js+%C2%B7+TypeScript+%C2%B7+Redux;REST+APIs+%C2%B7+GraphQL+%C2%B7+Responsive+Web+Development;Figma+designs+%E2%86%92+production-ready+web+pages;Frontend+Dev+%40+Tricity+Services+%C2%B7+Dec+2025" alt="Typing SVG" />
+<br/><br/>
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-aryan7061-%230D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/aryan7061)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--gupta--2026bvf-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-2026bvf)
-[![Email](https://img.shields.io/badge/Email-aryanguptawork26%40gmail.com-%230f4a3e?style=flat-square&logo=gmail&logoColor=white)](mailto:aryanguptawork26@gmail.com)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Work-%232dd4a7?style=flat-square&labelColor=0d1a16&color=2dd4a7)](mailto:aryanguptawork26@gmail.com)
+<a href="https://aryangupta.dev"><img src="https://img.shields.io/badge/Portfolio-aryangupta.dev-E43636?style=flat&labelColor=000000&logo=googlechrome&logoColor=F6EFD2" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aryan-gupta-2026bvf"><img src="https://img.shields.io/badge/LinkedIn-aryan--gupta-E43636?style=flat&labelColor=000000&logo=linkedin&logoColor=F6EFD2" alt="LinkedIn" /></a>
+<a href="mailto:aryanguptawork26@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-E43636?style=flat&labelColor=000000&logo=gmail&logoColor=F6EFD2" alt="Email" /></a>
+<a href="https://github.com/aryan7061?tab=followers"><img src="https://img.shields.io/github/followers/aryan7061?label=Followers&style=flat&labelColor=000000&color=E43636&logo=github&logoColor=F6EFD2" alt="GitHub followers" /></a>
 
 </div>
 
----
+<br/>
 
+## About
+
+```ts
+const aryan = {
+  role:      "Full Stack Developer",
+  current:   "Front End Developer @ Tricity Services · Dec 2025 – present",
+  base:      "Gurgaon, Haryana",
+  coreStack: ["React", "TypeScript", "Node.js", "NestJS", "GraphQL", "PostgreSQL"],
+  education: "MCA · Chandigarh University · 2023 – 2025",
+};
 ```
-$ whoami
-  Aryan Gupta
-$ cat role.txt
-  Frontend Developer @ Tricity Services  ·  since Dec 2025
-$ echo $STACK
-  "React · TypeScript · Redux · GraphQL"
-$ cat status.txt
-  open_to_work=true
-```
 
----
+I build full-stack web applications — responsive React interfaces on top of REST and GraphQL APIs backed by PostgreSQL and MySQL. At Tricity Services I develop React and TypeScript applications for agency clients, integrate REST endpoints, and turn Figma designs into responsive layouts; one dashboard went from a **5.6s** to a **1.4s** load after lazy loading, code splitting and caching. I care about clean, maintainable code and interfaces that feel fast.
 
-## 01 — About
-
-**Where I work.**
-Frontend Developer at Tricity Services since December 2025, building responsive web applications and SPAs with React.js and Tailwind CSS.
-
-**What I do.**
-I build component-driven React interfaces, manage application state with Redux, and connect REST APIs to render dynamic content. I convert Figma designs into clean, cross-browser pages, set projects up with Vite for fast builds, and debug layouts with Chrome DevTools.
-
-**What I bring.**
-
-| | |
-|---|---|
-| ▸ **Production SPAs** | Responsive single-page apps with Redux state flow and REST API integration alongside a backend team |
-| ▸ **Full-stack delivery** | Built and deployed **HisaabBook** end to end — React/TypeScript on NestJS/GraphQL + PostgreSQL, live on Vercel and Render |
-| ▸ **Complex UI work** | Drag-and-drop Kanban boards, dashboard analytics, server-side pagination and filtering |
-| ▸ **Design to code** | Figma designs → cross-browser production pages with Tailwind and component libraries |
-
----
-
-## 02 — Tech Stack
-
-<details open>
-<summary><b>Frontend</b></summary>
 <br/>
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td width="150"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,materialui&theme=dark" height="40" alt="React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Material UI" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" height="40" alt="Ant Design" title="Ant Design" />
+      <br/><sub>React · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Material UI · Ant Design · Refine</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,mysql,mongodb&theme=dark" height="40" alt="Node.js, NestJS, PostgreSQL, MySQL, MongoDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typeorm/typeorm-original.svg" height="40" alt="TypeORM" title="TypeORM" />
+      <br/><sub>Node.js · NestJS · TypeORM · PostgreSQL · MySQL · MongoDB</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>State &amp; APIs</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=redux,graphql&theme=dark" height="40" alt="Redux, GraphQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="40" alt="Axios" title="Axios" />
+      <br/><sub>Redux · Redux Toolkit · REST APIs · GraphQL · Axios</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,py&theme=dark" height="40" alt="TypeScript, JavaScript, Python" />
+      <br/><sub>TypeScript · JavaScript · Python · Object-Oriented Programming</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools &amp; Deploy</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vite,figma,vercel&theme=dark" height="40" alt="Git, GitHub, Vite, Figma, Vercel" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="40" alt="Chrome DevTools" title="Chrome DevTools" />
+      <br/><sub>Git · GitHub · Vite · Figma · Chrome DevTools · Vercel · Render · Kaggle</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Featured Work
+
+### HisaabBook &nbsp;<sub>Full-stack CRM</sub>
+
+A CRM for companies, contacts, deals and tasks — React, TypeScript, Refine and Ant Design on a NestJS + GraphQL API over PostgreSQL.
+
+- **Data layer** — 7 relational PostgreSQL entities with TypeORM and versioned migrations; GraphQL CRUD with pagination, filtering, sorting and aggregates
+- **Performance** — DataLoader batching to prevent N+1 queries in GraphQL resolvers
+- **Security** — JWT authentication, bcrypt hashing and server-side authorization across 4 roles with record-level access control
+- **Product** — 17 routed pages, including a drag-and-drop Kanban board, analytics dashboards, Excel export and INR/USD conversion
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,tailwind,html,css,vite,graphql,materialui" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" width="48" height="48" alt="Ant Design" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="48" height="48" alt="Axios" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="48" height="48" alt="React Router" />
+  <a href="https://github.com/aryan7061/HisaabBook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan7061&repo=HisaabBook&bg_color=000000&title_color=E43636&text_color=F6EFD2&icon_color=E43636&hide_border=true&border_radius=10&description_lines_count=2" alt="HisaabBook frontend repository" />
+  </a>
+  <a href="https://github.com/aryan7061/HisaabBook-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryan7061&repo=HisaabBook-api&bg_color=000000&title_color=E43636&text_color=F6EFD2&icon_color=E43636&hide_border=true&border_radius=10&description_lines_count=2" alt="HisaabBook API repository" />
+  </a>
 </p>
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React.js-2dd4a7?style=flat-square&logo=react&logoColor=0d1a16&labelColor=0d1a16)
-![TypeScript](https://img.shields.io/badge/TypeScript-2dd4a7?style=flat-square&logo=typescript&logoColor=0d1a16&labelColor=0d1a16)
-![JavaScript](https://img.shields.io/badge/JavaScript-2dd4a7?style=flat-square&logo=javascript&logoColor=0d1a16&labelColor=0d1a16)
-![Redux](https://img.shields.io/badge/Redux-2dd4a7?style=flat-square&logo=redux&logoColor=0d1a16&labelColor=0d1a16)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-2dd4a7?style=flat-square&logo=tailwindcss&logoColor=0d1a16&labelColor=0d1a16)
-![Vite](https://img.shields.io/badge/Vite-2dd4a7?style=flat-square&logo=vite&logoColor=0d1a16&labelColor=0d1a16)
-![GraphQL](https://img.shields.io/badge/GraphQL-2dd4a7?style=flat-square&logo=graphql&logoColor=0d1a16&labelColor=0d1a16)
-![Material UI](https://img.shields.io/badge/Material%20UI-2dd4a7?style=flat-square&logo=mui&logoColor=0d1a16&labelColor=0d1a16)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-2dd4a7?style=flat-square&logo=antdesign&logoColor=0d1a16&labelColor=0d1a16)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-2dd4a7?style=flat-square&logo=bootstrap&logoColor=0d1a16&labelColor=0d1a16)
-
-</div>
-</details>
-
-<details>
-<summary><b>Backend / APIs — supporting stack in full-stack projects</b></summary>
-<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typeorm/typeorm-original.svg" width="48" height="48" alt="TypeORM" />
+  <a href="https://hisaabbook.app"><img src="https://img.shields.io/badge/Live-hisaabbook.app-E43636?style=flat&labelColor=000000&logo=vercel&logoColor=F6EFD2" alt="HisaabBook live site" /></a>
 </p>
 
-<div align="center">
+### Prime Tube &nbsp;<sub>Video platform</sub>
 
-![Node.js](https://img.shields.io/badge/Node.js-2dd4a7?style=flat-square&logo=nodedotjs&logoColor=0d1a16&labelColor=0d1a16)
-![NestJS](https://img.shields.io/badge/NestJS-2dd4a7?style=flat-square&logo=nestjs&logoColor=0d1a16&labelColor=0d1a16)
-![Express.js](https://img.shields.io/badge/Express.js-2dd4a7?style=flat-square&logo=express&logoColor=0d1a16&labelColor=0d1a16)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2dd4a7?style=flat-square&logo=postgresql&logoColor=0d1a16&labelColor=0d1a16)
-![MongoDB](https://img.shields.io/badge/MongoDB-2dd4a7?style=flat-square&logo=mongodb&logoColor=0d1a16&labelColor=0d1a16)
-![MySQL](https://img.shields.io/badge/MySQL-2dd4a7?style=flat-square&logo=mysql&logoColor=0d1a16&labelColor=0d1a16)
+A React app for searching and watching YouTube videos — React Router across 3 dynamic views (video details, channels, search), YouTube data from RapidAPI via Axios with loading and error states, and a dark Material UI interface built from 10+ reusable components.
 
-</div>
-</details>
+<sub><b>Stack:</b> React · React Router · Material UI · Axios</sub>
 
-<details>
-<summary><b>Tools & Platforms</b></summary>
 <br/>
+
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="48" height="48" alt="Chrome DevTools" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan7061&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=E43636&text_color=F6EFD2&icon_color=E43636&ring_color=E43636&hide_border=true&border_radius=10" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan7061&layout=compact&langs_count=6&bg_color=000000&title_color=E43636&text_color=F6EFD2&hide_border=true&border_radius=10" height="170" alt="Most used languages" />
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aryan7061&background=000000&ring=E43636&fire=E43636&currStreakNum=F6EFD2&sideNums=F6EFD2&currStreakLabel=E43636&sideLabels=E2DDB4&dates=E2DDB4&stroke=E2DDB4&hide_border=true&border_radius=10" alt="GitHub streak" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-2dd4a7?style=flat-square&logo=git&logoColor=0d1a16&labelColor=0d1a16)
-![GitHub](https://img.shields.io/badge/GitHub-2dd4a7?style=flat-square&logo=github&logoColor=0d1a16&labelColor=0d1a16)
-![Figma](https://img.shields.io/badge/Figma-2dd4a7?style=flat-square&logo=figma&logoColor=0d1a16&labelColor=0d1a16)
-![VS Code](https://img.shields.io/badge/VS%20Code-2dd4a7?style=flat-square&logo=visualstudiocode&logoColor=0d1a16&labelColor=0d1a16)
-![Vercel](https://img.shields.io/badge/Vercel-2dd4a7?style=flat-square&logo=vercel&logoColor=0d1a16&labelColor=0d1a16)
+## Contribution Activity
 
-</div>
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan7061&bg_color=000000&color=F6EFD2&line=E43636&point=F6EFD2&area=true&area_color=E43636&title_color=E43636&hide_border=true&radius=10" width="100%" alt="Contribution graph" />
+</p>
 
----
-
-## 03 — Projects
-
-### HisaabBook — Full-Stack CRM Application
-
-CRM for managing companies, contacts, deals, and tasks. Role-based data authorization enforced at the API layer, a drag-and-drop Kanban board with per-column pagination and filtering, and dashboard analytics — deal pipeline value, win-rate, task-stage trends — with Excel export and multi-currency support.
-
-**Tech:** React · TypeScript · Refine · Ant Design · NestJS · GraphQL · PostgreSQL · Vercel · Render
-
-> ▸ Kanban + pagination &nbsp;·&nbsp; ▸ Role-based auth &nbsp;·&nbsp; ▸ Dashboard analytics &nbsp;·&nbsp; ▸ Excel export
-
-[![Live Demo](https://img.shields.io/badge/◆%20live__demo-0f4a3e?style=for-the-badge&logo=vercel&logoColor=2dd4a7)](https://hisaab-book-three.vercel.app/)
-[![Frontend Repo](https://img.shields.io/badge/◆%20frontend-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan7061/HisaabBook)
-[![Backend Repo](https://img.shields.io/badge/◆%20backend-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryan7061/HisaabBook-api)
-
----
-
-### Prime Tube — Video Streaming Platform
-
-Responsive video streaming site with real-time search and playback. Dynamic client-side routing for video details, channel profiles, and search results, with live data from the YouTube API via RapidAPI, proper loading and error states, and a custom dark-themed UI of reusable components.
-
-**Tech:** React.js · React Router DOM · Axios · Material UI · YouTube API (RapidAPI)
-
-> ▸ YouTube API &nbsp;·&nbsp; ▸ Client-side routing &nbsp;·&nbsp; ▸ Custom dark UI &nbsp;·&nbsp; ▸ Error states
-
-[![Status](https://img.shields.io/badge/◆%20links__soon-122b23?style=for-the-badge&logoColor=2dd4a7)](https://github.com/aryan7061)
-
-<!-- 🐍 Contribution snake — requires the Platane/snk GitHub Action pushing to an `output` branch
-![snake gif](https://github.com/aryan7061/aryan7061/blob/output/github-contribution-grid-snake.svg)
--->
-
----
-
-## 04 — Contact
-
-<div align="center">
-
-> *"First, solve the problem. Then, write the code."*
->
-> — John Johnson
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan7061/aryan7061/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan7061/aryan7061/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/aryan7061/aryan7061/output/github-snake-dark.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/◆%20send__message-2dd4a7?style=for-the-badge&logo=gmail&logoColor=0d1a16&labelColor=2dd4a7)](mailto:aryanguptawork26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/◆%20connect__on__linkedin-0d1a16?style=for-the-badge&logo=linkedin&logoColor=2dd4a7)](https://www.linkedin.com/in/aryan-gupta-2026bvf)
+<div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0f4a3e&height=120&section=footer&fontColor=d6f5ea)
+**Let's build something.** &nbsp;
+[aryangupta.dev](https://aryangupta.dev) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/aryan-gupta-2026bvf) &nbsp;·&nbsp;
+[aryanguptawork26@gmail.com](mailto:aryanguptawork26@gmail.com)
 
-<sub>Open to Frontend Developer opportunities — reach me at <a href="mailto:aryanguptawork26@gmail.com">aryanguptawork26@gmail.com</a></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E43636,100:000000&height=110&section=footer" width="100%" alt="" />
 
 </div>
