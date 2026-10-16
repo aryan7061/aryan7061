@@ -20,11 +20,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aryan7061&label=PROFILE%20VIEWS&color=E43636&labelColor=000000&style=flat-square" alt="Profile views" />
-
 </div>
-
----
 
 ## `01` · About Me
 
@@ -181,60 +177,6 @@ I also care deeply about performance. One dashboard I worked on improved from **
 </div>
 
 ---
-
-## `05` · GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryan7061&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=000000&title_color=E43636&text_color=F6EFD2&icon_color=E43636&ring_color=E43636&hide_border=true&border_radius=8" height="180" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan7061&layout=compact&langs_count=6&bg_color=000000&title_color=E43636&text_color=F6EFD2&hide_border=true&border_radius=8" height="180" alt="Most used languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=aryan7061&background=000000&ring=E43636&fire=E43636&currStreakNum=F6EFD2&sideNums=F6EFD2&currStreakLabel=E43636&sideLabels=E2DDB4&dates=E2DDB4&stroke=E2DDB4&hide_border=true&border_radius=8" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## `06` · Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryan7061&bg_color=000000&color=F6EFD2&line=E43636&point=F6EFD2&area=true&area_color=E43636&title_color=E43636&hide_border=true&radius=8" width="100%" alt="GitHub contribution activity" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryan7061/aryan7061/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryan7061/aryan7061/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/aryan7061/aryan7061/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
-</picture>
-
-</div>
-
----
-
-## `07` · Currently
-
-```text
-▸ Building        HisaabBook
-▸ Working with    React · TypeScript · Node.js · NestJS
-▸ Exploring       GraphQL · System Design · Performance
-▸ Improving       Architecture · UX · Clean Code
-```
-
-<br/>
-
-<div align="center">
-
-### Let's build something useful.
-
 <br/>
 
 <a href="https://aryangupta.dev">
@@ -248,8 +190,6 @@ I also care deeply about performance. One dashboard I worked on improved from **
 </a>
 
 <br/><br/>
-
-<sub>Designed & built with code, curiosity, and a little caffeine.</sub>
 
 <br/><br/>
 
