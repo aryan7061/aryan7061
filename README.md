@@ -37,7 +37,6 @@ const aryan = {
     "GraphQL",
     "PostgreSQL",
   ],
-  education: "MCA · Chandigarh University · 2023–2025",
 };
 ```
 
